@@ -1,0 +1,10 @@
+^E:\CHERNENKO\AGU\SDK_BOOST\BUILD\CMAKEFILES\0F9CEFEBF6B8DCCA4AA6DF9001AD3B5B\GENERATE.STAMP.RULE
+setlocal
+E:\cmake\bin\cmake.exe -SE:/chernenko/agu/SDK_boost -BE:/chernenko/agu/SDK_boost/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/chernenko/agu/SDK_boost/build/SDK.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

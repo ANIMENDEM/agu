@@ -1,0 +1,50 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 35,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 12
+	},
+	"id" : "Boost::headers::@6890427a1f51a3e7e1df",
+	"imported" : true,
+	"interfaceIncludes" : 
+	[
+		{
+			"isSystem" : true,
+			"path" : "E:/chernenko/agu/Sdk/worksdk/boost_1_80_0"
+		}
+	],
+	"local" : true,
+	"name" : "Boost::headers",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

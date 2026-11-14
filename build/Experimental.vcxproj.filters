@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\chernenko\agu\SDK_boost\build\CMakeFiles\0f9cefebf6b8dcca4aa6df9001ad3b5b\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\chernenko\agu\SDK_boost\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\chernenko\agu\SDK_boost\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{08607311-71BC-3324-A5E0-9097E3B9CDD0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
